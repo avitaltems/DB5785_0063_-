@@ -45,8 +45,8 @@ This workshop introduces key database concepts and provides hands-on practice in
 
    **[Add ERD Snapshot Here]**
    
-images/erd/addimagetoreadme.PNG
-> ![Employee ERD](images/erd/EmployeeERD.PNG)
+images/erd/EmployeeERD.png
+> ![Employee ERD](images/erd/EmployeeERD.png)
 
 images/erd/airbnb.PNG
 > ![air bnb](images/erd/erd_airbnb.png)
